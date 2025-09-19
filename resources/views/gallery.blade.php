@@ -11,7 +11,7 @@
       <div class="card">
         <img src="{{ asset('images/hima.jpeg') }}" class="card-img-top" alt="Image 1">
         <div class="card-body">
-          <h5 class="card-title text-center">Vice Chair at HIMATESDA Dahsyat 2025</h5>
+          <h5 class="card-title text-center">Vice Chair at HIMATESDA Dahsyat 2025 KONTOL</h5>
         </div>
       </div>
     </div>
